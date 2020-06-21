@@ -1,0 +1,7 @@
+main: be.exacu.Spigot.Tags
+name: Tags
+version: 1.0
+api-version: 1.15
+author: ExZiByte
+description: ExaCube Network Nametags Plugin
+prefix: Tags
